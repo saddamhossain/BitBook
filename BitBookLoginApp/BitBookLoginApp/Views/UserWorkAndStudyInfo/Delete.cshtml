@@ -1,0 +1,64 @@
+﻿@model BitBookLoginApp.Models.UserWorkAndStudyInfo
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>UserWorkAndStudyInfo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.WorkStation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WorkStation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProfessionalSkill)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProfessionalSkill)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.University)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.University)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.College)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.College)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HighSchool)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HighSchool)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

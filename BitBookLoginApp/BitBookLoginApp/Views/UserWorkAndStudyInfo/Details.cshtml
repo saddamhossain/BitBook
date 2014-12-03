@@ -1,0 +1,58 @@
+﻿@model BitBookLoginApp.Models.UserWorkAndStudyInfo
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>UserWorkAndStudyInfo</h4>
+	<hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.WorkStation)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WorkStation)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProfessionalSkill)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProfessionalSkill)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.University)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.University)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.College)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.College)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HighSchool)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HighSchool)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
