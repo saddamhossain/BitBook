@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section Styles{
+    <link href="~/css/style.css" rel="stylesheet" />
+<link href="~/css/controlcss.css" rel="stylesheet" />
+}
+  
+@section scripts
+{
+   
+<script src="~/Scripts/angular.js"></script>
+    <script src="~/Script/controllar.js"></script>
+
+}
+<div ng-app="myApp" class="container successimg">
+    <div class="main" ng-controller="MyController">
+        
+        <input ng-model="quary" placeholder="search your friend" autofocus/>
+        <ul class="artistlist">
+            <li class="artist cf" ng-repeat="item in artists | filter: quary">
+
+                <img ng-src="~/images/{{item.shortname}}_tn.jpg" />
+
+                <h2>{{item.name}}</h2>
+                <h3>{{itme.reknown}}</h3>
+            </li>
+        </ul>
+
+    </div>
+</div>
+
+

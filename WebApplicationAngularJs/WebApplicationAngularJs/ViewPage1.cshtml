@@ -1,0 +1,31 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+   
+    <title></title>
+    <link href="~/css/style.css" rel="stylesheet" />
+    <script src="~/AngularJS/angular.min.js"></script>
+    <script src="~/Script/controllar.js"></script>
+</head>
+<body>
+    <div>
+        <div class="main" ng-controller="MyController">
+            <input type="search" />
+            <ul class="artistlist">
+                <li class="artist cf" ng-repeat="item in artists">
+
+                    <img ng-src="images/{{item.shortname}}_tn.jpg" />
+                    <h2>{{item.name}}</h2>
+                    <h3>{{itme.reknown}}</h3>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+</body>
+</html>

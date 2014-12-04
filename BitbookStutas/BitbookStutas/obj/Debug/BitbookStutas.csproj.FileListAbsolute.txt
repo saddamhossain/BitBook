@@ -1,0 +1,108 @@
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\BitbookStutas.dll.config
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\BitbookStutas.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\BitbookStutas.pdb
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Antlr3.Runtime.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\EntityFramework.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\EntityFramework.SqlServer.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Google.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Newtonsoft.Json.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Owin.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.Helpers.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.Mvc.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.Optimization.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.Razor.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.Deployment.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.Razor.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\WebGrease.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.Helpers.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.Mvc.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.Optimization.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.Razor.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.Deployment.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.Razor.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Newtonsoft.Json.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Antlr3.Runtime.pdb
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\EntityFramework.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\EntityFramework.SqlServer.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Google.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\obj\Debug\BitbookStutas.dll
+c:\users\nazmul hasan\documents\visual studio 2013\Projects\BitbookStutas\BitbookStutas\obj\Debug\BitbookStutas.pdb
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\obj\Debug\BitbookStutas.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\BitbookStutas.dll.config
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\BitbookStutas.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\BitbookStutas.pdb
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Antlr3.Runtime.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\EntityFramework.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\EntityFramework.SqlServer.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.Core.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Cookies.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Facebook.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Google.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.OAuth.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Twitter.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Web.Infrastructure.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Newtonsoft.Json.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Owin.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.Helpers.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.Mvc.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.Optimization.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.Razor.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.Deployment.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.Razor.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\WebGrease.dll
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.Helpers.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.Mvc.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.Optimization.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.Razor.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.Deployment.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\System.Web.WebPages.Razor.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Newtonsoft.Json.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Antlr3.Runtime.pdb
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\EntityFramework.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\EntityFramework.SqlServer.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.Core.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Facebook.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Cookies.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.OAuth.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Google.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.Twitter.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\00.  PERSONAL  .00\Mixed\New folder (2)\BitbookStutas\BitbookStutas\obj\Debug\BitbookStutas.pdb
